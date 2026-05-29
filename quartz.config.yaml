@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: YOUR_USERNAME.github.io/eqos
+  baseUrl: DutchMongoose.github.io/Eqos
   ignorePatterns:
     - TODO
     - DM
@@ -164,7 +164,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/YOUR_USERNAME/eqos
+        GitHub: https://github.com/DutchMongoose/Eqos
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
