@@ -1,6 +1,8 @@
 ---
-tags: [location, nation, rothas]
+tags: [location, rothas]
 type: nation
+location-type:
+  - nation
 continent: Ocura
 ruler: "King Kera Rothuss"
 capital: "[[Varrens]]"

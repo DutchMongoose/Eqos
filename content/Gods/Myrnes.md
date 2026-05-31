@@ -1,9 +1,12 @@
 ---
-tags: [god, banished, creatures, nature]
+tags: [god, banished]
 type: deity
 alignment: Lawful Evil
 title: The Eye that Sees
-domain: Creatures, Fauna, Wilderness
+domains:
+  - creatures
+  - fauna
+  - wilderness
 relation: "Sister of [[Melora]]"
 ---
 

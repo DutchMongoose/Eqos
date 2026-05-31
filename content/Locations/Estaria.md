@@ -1,6 +1,8 @@
 ---
-tags: [location, nation, stub]
+tags: [location, stub]
 type: location
+location-type:
+  - nation
 world: Eqos
 continent: Omas
 neighbor: "[[Phokar]]"

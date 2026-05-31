@@ -1,6 +1,9 @@
 ---
-tags: [location, city, capital, rothas]
+tags: [location, rothas, varrens]
 type: city
+location-type:
+  - city
+  - capital
 nation: "[[Rothas]]"
 ruler: "King Kera Rothuss; Lawmaster [[Olana Weras]]"
 factions:

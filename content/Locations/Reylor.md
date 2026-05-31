@@ -1,6 +1,9 @@
 ---
-tags: [location, nation, giant]
+tags: [location, reylor]
 type: location
+location-type:
+  - nation
+culture: giant
 world: Eqos
 region: Oros
 ---

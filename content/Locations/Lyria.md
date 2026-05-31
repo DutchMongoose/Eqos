@@ -1,6 +1,9 @@
 ---
-tags: [location, city, capital, phokar]
+tags: [location, phokar]
 type: city
+location-type:
+  - city
+  - capital
 nation: "[[Phokar]]"
 ruler: "Empress Bahavir"
 nickname: "The Marble City"

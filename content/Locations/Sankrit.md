@@ -1,6 +1,8 @@
 ---
-tags: [location, undercity, varrens]
+tags: [location, varrens]
 type: location
+location-type:
+  - undercity
 world: Eqos
 nation: "[[Rothas]]"
 located-in: "[[Varrens]] Undercity"

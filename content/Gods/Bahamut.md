@@ -1,9 +1,12 @@
 ---
-tags: [god, benevolent, dragons, law]
+tags: [god, benevolent]
 type: deity
 alignment: Lawful Neutral
 symbol: A curled dragon
-domain: Law, Dragonkind, Strength of Character
+domains:
+  - law
+  - dragons
+  - strength
 realm: Celestia / Elemental Planes
 mortal-name: Unknown silver dragonborn paladin
 patron-of: "[[Phokar]]"

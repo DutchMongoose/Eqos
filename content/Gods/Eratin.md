@@ -1,9 +1,12 @@
 ---
-tags: [god, benevolent, trickery, wealth]
+tags: [god, benevolent]
 type: deity
 alignment: Chaotic Neutral
 symbol: Three overlapping golden rings
-domain: Coins, Gold, Deception
+domains:
+  - trickery
+  - wealth
+  - deception
 ---
 
 # Eratin

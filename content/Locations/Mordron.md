@@ -1,6 +1,9 @@
 ---
-tags: [location, city, port, rothas]
+tags: [location, rothas]
 type: city
+location-type:
+  - city
+  - port
 nation: "[[Rothas]]"
 ruler: "Three Trade Lords"
 ---

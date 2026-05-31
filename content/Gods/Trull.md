@@ -1,9 +1,11 @@
 ---
-tags: [god, banished, knowledge, darkness]
+tags: [god, banished]
 type: deity
 alignment: Neutral Evil
 title: The Sorrowed One
-domain: Forbidden Knowledge, Dark Magic
+domains:
+  - forbidden-knowledge
+  - dark-magic
 ---
 
 # Trull — The Sorrowed One

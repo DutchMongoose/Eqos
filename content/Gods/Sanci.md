@@ -1,8 +1,11 @@
 ---
-tags: [god, banished, hunger]
+tags: [god, banished]
 type: deity
 alignment: Chaotic Good (before) / Chaotic Evil (after)
 title: The Devourer
+domains:
+  - hunger
+  - consumption
 domain: Hunger, Consumption
 ---
 

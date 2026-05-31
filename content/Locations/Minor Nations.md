@@ -1,6 +1,8 @@
 ---
-tags: [location, nation, minor]
+tags: [location, minor]
 type: overview
+location-type:
+  - nation
 aliases: ["Minor Nations"]
 ---
 

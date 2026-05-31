@@ -1,9 +1,11 @@
 ---
-tags: [god, benevolent, knowledge]
+tags: [god, benevolent]
 type: deity
 alignment: Neutral Good
 symbol: A vertical third eye
-domain: Knowledge, Strategy
+domains:
+  - knowledge
+  - strategy
 realm: Celestia
 mortal-name: Unknown elf
 patron-of: "[[Knowing Keepers]]"

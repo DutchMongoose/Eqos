@@ -1,5 +1,5 @@
 ---
-tags: [character, fallen, chain-breaker, mage]
+tags: [character, the-fallen, chain-breakers, mage]
 type: character
 world: Eqos
 faction: "[[The Fallen]]"

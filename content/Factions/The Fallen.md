@@ -1,5 +1,5 @@
 ---
-tags: [faction, antagonist, banished-gods]
+tags: [faction, antagonist, banished-ones]
 type: faction
 world: Eqos
 leaders:

@@ -1,5 +1,5 @@
 ---
-tags: [character, warden, leader, dwarf]
+tags: [character, white-wardens, leader, dwarven]
 type: character
 world: Eqos
 faction: "[[White Wardens]]"

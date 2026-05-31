@@ -1,5 +1,5 @@
 ---
-tags: [character, fallen, black-hand, swordsman]
+tags: [character, the-fallen, black-hand, swordsman]
 type: character
 world: Eqos
 faction: "[[The Fallen]]"

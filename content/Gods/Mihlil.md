@@ -1,9 +1,12 @@
 ---
-tags: [god, benevolent, music, peace]
+tags: [god, benevolent]
 type: deity
 alignment: Lawful Good
 symbol: A harp crossed with a drinking cup
-domain: Music, Peace, Vices
+domains:
+  - music
+  - peace
+  - vices
 ---
 
 # Mihlil

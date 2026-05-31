@@ -1,6 +1,8 @@
 ---
-tags: [location, forest, ciria, dangerous]
+tags: [location, ciria]
 type: location
+location-type:
+  - forest
 nation: "[[Ciria]]"
 notable:
   - "[[Kas Aertom]]

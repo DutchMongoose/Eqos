@@ -1,6 +1,9 @@
 ---
-tags: [location, nation, magocracy]
+tags: [location, ciria]
 type: nation
+location-type:
+  - nation
+  - magocracy
 capital: "[[Demini]]"
 government: Magocracy (Council of Niêve)
 relation: "Contested border with [[Rothas]]"

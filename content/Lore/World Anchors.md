@@ -1,5 +1,5 @@
 ---
-tags: [lore, planes, keepers, fallen]
+tags: [lore, planes, knowing-keepers, the-fallen]
 type: lore
 created-by: "[[Knowing Keepers]]"
 threatened-by: "[[The Fallen]]"

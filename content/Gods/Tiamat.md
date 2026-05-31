@@ -1,9 +1,12 @@
 ---
-tags: [god, banished, evil, dragons]
+tags: [god, banished]
 type: deity
 alignment: Chaotic Evil
 title: The Winged Doom
-domain: Evil Dragonkind, Tyranny, The Nine Hells
+domains:
+  - dragons
+  - tyranny
+  - the-nine-hells
 realm: Nine Hells
 rival: "[[Bahamut]]"
 ---

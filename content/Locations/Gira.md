@@ -1,6 +1,10 @@
 ---
-tags: [location, city, dwarven, vassal]
+tags: [location, gira]
 type: city
+location-type:
+  - city
+  - vassal
+culture: dwarven
 nation: "[[Rothas]]"
 status: Vassal state
 ruler: "Roktar (elderly); succession contested"

@@ -1,6 +1,9 @@
 ---
-tags: [location, city, capital, ciria]
+tags: [location, ciria]
 type: city
+location-type:
+  - city
+  - capital
 nation: "[[Ciria]]"
 ruler: "Council of Niêve"
 nickname: "The Sapphire City"

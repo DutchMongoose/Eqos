@@ -1,9 +1,13 @@
 ---
-tags: [god, benevolent, nature]
+tags: [god, benevolent]
 type: deity
 alignment: Chaotic Neutral
 symbol: Two concentric circles connected by curving lines (flower + whirlpool)
-domain: Nature, Plants, Seas, Land
+domains:
+  - nature
+  - plants
+  - seas
+  - land
 ---
 
 # Melora — The Wildmother

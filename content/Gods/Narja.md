@@ -1,9 +1,13 @@
 ---
-tags: [god, banished, stars, time, fate]
+tags: [god, banished]
 type: deity
 alignment: True Neutral
 title: The Pale Star
-domain: Stars, Time, Fate, Prediction
+domains:
+  - stars
+  - time
+  - fate
+  - prediction
 symbol: A star visible across all planes
 ---
 

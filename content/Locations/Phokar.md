@@ -1,6 +1,9 @@
 ---
-tags: [location, nation, empire]
+tags: [location, phokar]
 type: nation
+location-type:
+  - nation
+  - empire
 continent: Omas
 capital: "[[Lyria]]"
 ruler: "Empress Bahavir"

@@ -1,5 +1,5 @@
 ---
-tags: [plane, celestial, good]
+tags: [plane, celestial]
 type: plane
 residents:
   - "[[Ioun]]

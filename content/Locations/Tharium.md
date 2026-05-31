@@ -1,6 +1,9 @@
 ---
-tags: [location, city, military, rothas]
+tags: [location, rothas]
 type: city
+location-type:
+  - city
+  - military
 nation: "[[Rothas]]"
 ruler: "Lady Myela (retired Compinaar)"
 function: "White Warden training grounds; eastern border stronghold"

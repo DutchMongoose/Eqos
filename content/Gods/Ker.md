@@ -1,9 +1,12 @@
 ---
-tags: [god, banished, justice, war]
+tags: [god, banished]
 type: deity
 alignment: Lawful Neutral
 title: The King in Yellow
-domain: Justice, War, Repentance
+domains:
+  - justice
+  - war
+  - repentance
 mortal-race: Minotaur
 ---
 

@@ -1,6 +1,8 @@
 ---
-tags: [location, varrens, undercity]
+tags: [location, varrens]
 type: location
+location-type:
+  - undercity
 world: Eqos
 located-in: "[[Varrens]]"
 controlled-by: "[[Black Hand]]"

@@ -1,5 +1,5 @@
 ---
-tags: [lore, fallen, far-realms, banished-ones]
+tags: [lore, the-fallen, far-realms, banished-ones]
 aliases: ["The Starborn", "Starborn"]
 type: lore
 world: Eqos

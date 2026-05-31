@@ -1,9 +1,11 @@
 ---
-tags: [god, benevolent, death]
+tags: [god, benevolent]
 type: deity
 alignment: True Neutral
 symbol: Head of a raven facing right
-domain: Death, Souls
+domains:
+  - death
+  - souls
 realm: "[[Caves of the Departed]]"
 mortal-name: Ista
 aliases: ["Raven Queen"]

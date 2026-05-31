@@ -1,5 +1,7 @@
 ---
-tags: [location, temple, varrens]
+tags: [location, varrens]
+location-type:
+  - temple
 aliases: ["Temple of Enlightenment"]
 type: location
 world: Eqos

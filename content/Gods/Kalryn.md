@@ -1,9 +1,12 @@
 ---
-tags: [god, banished, deception, shapeshifting]
+tags: [god, banished]
 type: deity
 alignment: Neutral Good (before) / Corrupted (after)
 title: The Many-Faced
-domain: Performance, Deception, Shapeshifting
+domains:
+  - performance
+  - deception
+  - shapeshifting
 created: Doppelgangers
 ---
 

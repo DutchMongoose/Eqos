@@ -1,9 +1,13 @@
 ---
-tags: [god, benevolent, light, community]
+tags: [god, benevolent]
 type: deity
 alignment: Neutral Good
 symbol: Sun with outward-facing points and hollow center
-domain: Light, Common Folk, Harvest, Safety
+domains:
+  - light
+  - community
+  - harvest
+  - safety
 realm: Celestia
 ---
 
